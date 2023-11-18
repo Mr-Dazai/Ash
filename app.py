@@ -1,3 +1,4 @@
+#.\venv\Scripts\activate   
 import os
 from openai import OpenAI
 import tkinter as tk
